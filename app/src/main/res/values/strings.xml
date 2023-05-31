@@ -1,0 +1,162 @@
+<resources>
+    <string name="app_name">Aplikasi SiMun</string>
+    <string name="mdpl">Ketinggian</string>
+    <string name="location">Lokasi</string>
+    <string name="track">Jalur</string>
+    <string name="title_education">Judul Edukasi</string>
+
+    <string name="mountain_name">Nama Gunung</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Gunung Kerinci</item>
+        <item>Gunung Rinjani</item>
+        <item>Gunung Semeru</item>
+        <item>Gunung Merbabu</item>
+        <item>Gunung Lawu</item>
+        <item>Gunung Raung</item>
+        <item>Gunung Agung</item>
+        <item>Gunung Andong</item>
+        <item>Gunung Gede</item>
+        <item>Gunung Argopura</item>
+        <item>Gunung Sumbing</item>
+        <item>Gunung Sindoro</item>
+        <item>Gunung Slamet</item>
+        <item>Gunung Prau</item>
+        <item>Gunung Ungaran</item>
+    </string-array>
+
+    <string-array name="location_name">
+        <item>Jambi</item>
+        <item>Nusa Tenggara Barat</item>
+        <item>Jawa Timur</item>
+        <item>Jawa Tengah</item>
+        <item>Jawa Tengah</item>
+        <item>Jawa Timur</item>
+        <item>Bali</item>
+        <item>Jawa Tengah</item>
+        <item>Jawa Barat</item>
+        <item>Jawa Timur</item>
+        <item>Jawa Tengah</item>
+        <item>Jawa Tengah</item>
+        <item>Jawa Tengah</item>
+        <item>Jawa Tengah</item>
+        <item>Jawa Tengah</item>
+    </string-array>
+
+    <string-array name="mdpl_name">
+        <item>3805 MDPL </item>
+        <item>3762 MDPL</item>
+        <item>3676 MDPL</item>
+        <item>3145 MDPL</item>
+        <item>3265 MDPL</item>
+        <item>3332 MDPL</item>
+        <item>3142 MDPL</item>
+        <item>1726 MDPL</item>
+        <item>2958 MDPL</item>
+        <item>3088 MDPL</item>
+        <item>3371 MDPL</item>
+        <item>3153 MDPL</item>
+        <item>3432 MDPL</item>
+        <item>2590 MDPL</item>
+        <item>2050 MDPL</item>
+    </string-array>
+
+
+    <string-array name="track_mountain">
+        <item><![CDATA[1. Item 1 (List 1, List 2, List 3)]]></item>
+        <item><![CDATA[2. Item 2 (List A, List B)]]></item>
+        <item><![CDATA[3. Item 3 (List X, List Y, List Z)]]></item>
+        <item><![CDATA[1. Item 1 (List 1, List 2, List 4)]]></item>
+        <item><![CDATA[2. Item 2 (List A, List D)]]></item>
+        <item><![CDATA[3. Item 3 (List X, List 2, List Z)]]></item>
+        <item><![CDATA[1. Item 1 (List 1, List 2, List 3)]]></item>
+        <item><![CDATA[2. Item 2 (List A, List B)]]></item>
+        <item><![CDATA[3. Item 3 (List X, List Y, List Z)]]></item>
+        <item><![CDATA[1. Item 1 (List 1, List 2, List 4)]]></item>
+        <item><![CDATA[2. Item 2 (List A, List D)]]></item>
+        <item><![CDATA[3. Item 3 (List X, List 2, List Z)]]></item>
+        <item><![CDATA[1. Item 1 (List 1, List 2, List 4)]]></item>
+        <item><![CDATA[2. Item 2 (List A, List D)]]></item>
+        <item><![CDATA[3. Item 3 (List X, List 2, List Z)]]></item>
+    </string-array>
+
+
+    <string-array name="data_description">
+        <item>Selain menjadi puncak tertinggi kedua di The Seven Summits of Indonesia, Gunung Kerinci juga merupakan gunung tertinggi di Sumatera dan gunung berapi tertinggi di Indonesia.Gunung Kerinci (juga dieja "Kerintji", dan dikenal sebagai Gunung Gadang, Merapi) yang terletak di perbatasan Kabupaten Kerinci, Jambi dan Kabupaten Solok Selatan, Sumatra Barat, di Pegunungan Bukit Barisan dengan ketinggian 3.805 mdpl. Gunung ini juga menjadi batas antara wilayah Suku Kerinci dengan Etnis Minangkabau yang dikelilingi hutan lebat Taman Nasional Kerinci Seblat, yang merupakan habitat harimau sumatra dan badak sumatra. Untuk harga tiket registrasi /orang Weekday WNI : 20k, WNA : 310k, Weekend WNI : 25k. WNA : 460k. Estimasi rata-rata waktu mendaki gunung ini 2-3 hari. </item>
+        <item>Selain menjadi puncak tertinggi kedua di The Seven Summits of Indonesia, Gunung Kerinci juga merupakan gunung tertinggi di Sumatera dan gunung berapi tertinggi di Indonesia.Gunung Kerinci (juga dieja "Kerintji", dan dikenal sebagai Gunung Gadang, Merapi) yang terletak di perbatasan Kabupaten Kerinci, Jambi dan Kabupaten Solok Selatan, Sumatra Barat, di Pegunungan Bukit Barisan dengan ketinggian 3.805 mdpl. Gunung ini juga menjadi batas antara wilayah Suku Kerinci dengan Etnis Minangkabau yang dikelilingi hutan lebat Taman Nasional Kerinci Seblat, yang merupakan habitat harimau sumatra dan badak sumatra. Untuk harga tiket registrasi /orang Weekday WNI : 20k, WNA : 310k, Weekend WNI : 25k. WNA : 460k. Estimasi rata-rata waktu mendaki gunung ini 2-3 hari. </item>
+        <item>Selain menjadi puncak tertinggi kedua di The Seven Summits of Indonesia, Gunung Kerinci juga merupakan gunung tertinggi di Sumatera dan gunung berapi tertinggi di Indonesia.Gunung Kerinci (juga dieja "Kerintji", dan dikenal sebagai Gunung Gadang, Merapi) yang terletak di perbatasan Kabupaten Kerinci, Jambi dan Kabupaten Solok Selatan, Sumatra Barat, di Pegunungan Bukit Barisan dengan ketinggian 3.805 mdpl. Gunung ini juga menjadi batas antara wilayah Suku Kerinci dengan Etnis Minangkabau yang dikelilingi hutan lebat Taman Nasional Kerinci Seblat, yang merupakan habitat harimau sumatra dan badak sumatra. Untuk harga tiket registrasi /orang Weekday WNI : 20k, WNA : 310k, Weekend WNI : 25k. WNA : 460k. Estimasi rata-rata waktu mendaki gunung ini 2-3 hari. </item>
+        <item>Selain menjadi puncak tertinggi kedua di The Seven Summits of Indonesia, Gunung Kerinci juga merupakan gunung tertinggi di Sumatera dan gunung berapi tertinggi di Indonesia.Gunung Kerinci (juga dieja "Kerintji", dan dikenal sebagai Gunung Gadang, Merapi) yang terletak di perbatasan Kabupaten Kerinci, Jambi dan Kabupaten Solok Selatan, Sumatra Barat, di Pegunungan Bukit Barisan dengan ketinggian 3.805 mdpl. Gunung ini juga menjadi batas antara wilayah Suku Kerinci dengan Etnis Minangkabau yang dikelilingi hutan lebat Taman Nasional Kerinci Seblat, yang merupakan habitat harimau sumatra dan badak sumatra. Untuk harga tiket registrasi /orang Weekday WNI : 20k, WNA : 310k, Weekend WNI : 25k. WNA : 460k. Estimasi rata-rata waktu mendaki gunung ini 2-3 hari. </item>
+        <item>Selain menjadi puncak tertinggi kedua di The Seven Summits of Indonesia, Gunung Kerinci juga merupakan gunung tertinggi di Sumatera dan gunung berapi tertinggi di Indonesia.Gunung Kerinci (juga dieja "Kerintji", dan dikenal sebagai Gunung Gadang, Merapi) yang terletak di perbatasan Kabupaten Kerinci, Jambi dan Kabupaten Solok Selatan, Sumatra Barat, di Pegunungan Bukit Barisan dengan ketinggian 3.805 mdpl. Gunung ini juga menjadi batas antara wilayah Suku Kerinci dengan Etnis Minangkabau yang dikelilingi hutan lebat Taman Nasional Kerinci Seblat, yang merupakan habitat harimau sumatra dan badak sumatra. Untuk harga tiket registrasi /orang Weekday WNI : 20k, WNA : 310k, Weekend WNI : 25k. WNA : 460k. Estimasi rata-rata waktu mendaki gunung ini 2-3 hari. </item>
+        <item>Selain menjadi puncak tertinggi kedua di The Seven Summits of Indonesia, Gunung Kerinci juga merupakan gunung tertinggi di Sumatera dan gunung berapi tertinggi di Indonesia.Gunung Kerinci (juga dieja "Kerintji", dan dikenal sebagai Gunung Gadang, Merapi) yang terletak di perbatasan Kabupaten Kerinci, Jambi dan Kabupaten Solok Selatan, Sumatra Barat, di Pegunungan Bukit Barisan dengan ketinggian 3.805 mdpl. Gunung ini juga menjadi batas antara wilayah Suku Kerinci dengan Etnis Minangkabau yang dikelilingi hutan lebat Taman Nasional Kerinci Seblat, yang merupakan habitat harimau sumatra dan badak sumatra. Untuk harga tiket registrasi /orang Weekday WNI : 20k, WNA : 310k, Weekend WNI : 25k. WNA : 460k. Estimasi rata-rata waktu mendaki gunung ini 2-3 hari. </item>
+        <item>Selain menjadi puncak tertinggi kedua di The Seven Summits of Indonesia, Gunung Kerinci juga merupakan gunung tertinggi di Sumatera dan gunung berapi tertinggi di Indonesia.Gunung Kerinci (juga dieja "Kerintji", dan dikenal sebagai Gunung Gadang, Merapi) yang terletak di perbatasan Kabupaten Kerinci, Jambi dan Kabupaten Solok Selatan, Sumatra Barat, di Pegunungan Bukit Barisan dengan ketinggian 3.805 mdpl. Gunung ini juga menjadi batas antara wilayah Suku Kerinci dengan Etnis Minangkabau yang dikelilingi hutan lebat Taman Nasional Kerinci Seblat, yang merupakan habitat harimau sumatra dan badak sumatra. Untuk harga tiket registrasi /orang Weekday WNI : 20k, WNA : 310k, Weekend WNI : 25k. WNA : 460k. Estimasi rata-rata waktu mendaki gunung ini 2-3 hari. </item>
+        <item>Selain menjadi puncak tertinggi kedua di The Seven Summits of Indonesia, Gunung Kerinci juga merupakan gunung tertinggi di Sumatera dan gunung berapi tertinggi di Indonesia.Gunung Kerinci (juga dieja "Kerintji", dan dikenal sebagai Gunung Gadang, Merapi) yang terletak di perbatasan Kabupaten Kerinci, Jambi dan Kabupaten Solok Selatan, Sumatra Barat, di Pegunungan Bukit Barisan dengan ketinggian 3.805 mdpl. Gunung ini juga menjadi batas antara wilayah Suku Kerinci dengan Etnis Minangkabau yang dikelilingi hutan lebat Taman Nasional Kerinci Seblat, yang merupakan habitat harimau sumatra dan badak sumatra. Untuk harga tiket registrasi /orang Weekday WNI : 20k, WNA : 310k, Weekend WNI : 25k. WNA : 460k. Estimasi rata-rata waktu mendaki gunung ini 2-3 hari. </item>
+        <item>Selain menjadi puncak tertinggi kedua di The Seven Summits of Indonesia, Gunung Kerinci juga merupakan gunung tertinggi di Sumatera dan gunung berapi tertinggi di Indonesia.Gunung Kerinci (juga dieja "Kerintji", dan dikenal sebagai Gunung Gadang, Merapi) yang terletak di perbatasan Kabupaten Kerinci, Jambi dan Kabupaten Solok Selatan, Sumatra Barat, di Pegunungan Bukit Barisan dengan ketinggian 3.805 mdpl. Gunung ini juga menjadi batas antara wilayah Suku Kerinci dengan Etnis Minangkabau yang dikelilingi hutan lebat Taman Nasional Kerinci Seblat, yang merupakan habitat harimau sumatra dan badak sumatra. Untuk harga tiket registrasi /orang Weekday WNI : 20k, WNA : 310k, Weekend WNI : 25k. WNA : 460k. Estimasi rata-rata waktu mendaki gunung ini 2-3 hari. </item>
+        <item>Selain menjadi puncak tertinggi kedua di The Seven Summits of Indonesia, Gunung Kerinci juga merupakan gunung tertinggi di Sumatera dan gunung berapi tertinggi di Indonesia.Gunung Kerinci (juga dieja "Kerintji", dan dikenal sebagai Gunung Gadang, Merapi) yang terletak di perbatasan Kabupaten Kerinci, Jambi dan Kabupaten Solok Selatan, Sumatra Barat, di Pegunungan Bukit Barisan dengan ketinggian 3.805 mdpl. Gunung ini juga menjadi batas antara wilayah Suku Kerinci dengan Etnis Minangkabau yang dikelilingi hutan lebat Taman Nasional Kerinci Seblat, yang merupakan habitat harimau sumatra dan badak sumatra. Untuk harga tiket registrasi /orang Weekday WNI : 20k, WNA : 310k, Weekend WNI : 25k. WNA : 460k. Estimasi rata-rata waktu mendaki gunung ini 2-3 hari. </item>
+        <item>Selain menjadi puncak tertinggi kedua di The Seven Summits of Indonesia, Gunung Kerinci juga merupakan gunung tertinggi di Sumatera dan gunung berapi tertinggi di Indonesia.Gunung Kerinci (juga dieja "Kerintji", dan dikenal sebagai Gunung Gadang, Merapi) yang terletak di perbatasan Kabupaten Kerinci, Jambi dan Kabupaten Solok Selatan, Sumatra Barat, di Pegunungan Bukit Barisan dengan ketinggian 3.805 mdpl. Gunung ini juga menjadi batas antara wilayah Suku Kerinci dengan Etnis Minangkabau yang dikelilingi hutan lebat Taman Nasional Kerinci Seblat, yang merupakan habitat harimau sumatra dan badak sumatra. Untuk harga tiket registrasi /orang Weekday WNI : 20k, WNA : 310k, Weekend WNI : 25k. WNA : 460k. Estimasi rata-rata waktu mendaki gunung ini 2-3 hari. </item>
+        <item>Selain menjadi puncak tertinggi kedua di The Seven Summits of Indonesia, Gunung Kerinci juga merupakan gunung tertinggi di Sumatera dan gunung berapi tertinggi di Indonesia.Gunung Kerinci (juga dieja "Kerintji", dan dikenal sebagai Gunung Gadang, Merapi) yang terletak di perbatasan Kabupaten Kerinci, Jambi dan Kabupaten Solok Selatan, Sumatra Barat, di Pegunungan Bukit Barisan dengan ketinggian 3.805 mdpl. Gunung ini juga menjadi batas antara wilayah Suku Kerinci dengan Etnis Minangkabau yang dikelilingi hutan lebat Taman Nasional Kerinci Seblat, yang merupakan habitat harimau sumatra dan badak sumatra. Untuk harga tiket registrasi /orang Weekday WNI : 20k, WNA : 310k, Weekend WNI : 25k. WNA : 460k. Estimasi rata-rata waktu mendaki gunung ini 2-3 hari. </item>
+        <item>Selain menjadi puncak tertinggi kedua di The Seven Summits of Indonesia, Gunung Kerinci juga merupakan gunung tertinggi di Sumatera dan gunung berapi tertinggi di Indonesia.Gunung Kerinci (juga dieja "Kerintji", dan dikenal sebagai Gunung Gadang, Merapi) yang terletak di perbatasan Kabupaten Kerinci, Jambi dan Kabupaten Solok Selatan, Sumatra Barat, di Pegunungan Bukit Barisan dengan ketinggian 3.805 mdpl. Gunung ini juga menjadi batas antara wilayah Suku Kerinci dengan Etnis Minangkabau yang dikelilingi hutan lebat Taman Nasional Kerinci Seblat, yang merupakan habitat harimau sumatra dan badak sumatra. Untuk harga tiket registrasi /orang Weekday WNI : 20k, WNA : 310k, Weekend WNI : 25k. WNA : 460k. Estimasi rata-rata waktu mendaki gunung ini 2-3 hari. </item>
+        <item>Selain menjadi puncak tertinggi kedua di The Seven Summits of Indonesia, Gunung Kerinci juga merupakan gunung tertinggi di Sumatera dan gunung berapi tertinggi di Indonesia.Gunung Kerinci (juga dieja "Kerintji", dan dikenal sebagai Gunung Gadang, Merapi) yang terletak di perbatasan Kabupaten Kerinci, Jambi dan Kabupaten Solok Selatan, Sumatra Barat, di Pegunungan Bukit Barisan dengan ketinggian 3.805 mdpl. Gunung ini juga menjadi batas antara wilayah Suku Kerinci dengan Etnis Minangkabau yang dikelilingi hutan lebat Taman Nasional Kerinci Seblat, yang merupakan habitat harimau sumatra dan badak sumatra. Untuk harga tiket registrasi /orang Weekday WNI : 20k, WNA : 310k, Weekend WNI : 25k. WNA : 460k. Estimasi rata-rata waktu mendaki gunung ini 2-3 hari. </item>
+        <item>Selain menjadi puncak tertinggi kedua di The Seven Summits of Indonesia, Gunung Kerinci juga merupakan gunung tertinggi di Sumatera dan gunung berapi tertinggi di Indonesia.Gunung Kerinci (juga dieja "Kerintji", dan dikenal sebagai Gunung Gadang, Merapi) yang terletak di perbatasan Kabupaten Kerinci, Jambi dan Kabupaten Solok Selatan, Sumatra Barat, di Pegunungan Bukit Barisan dengan ketinggian 3.805 mdpl. Gunung ini juga menjadi batas antara wilayah Suku Kerinci dengan Etnis Minangkabau yang dikelilingi hutan lebat Taman Nasional Kerinci Seblat, yang merupakan habitat harimau sumatra dan badak sumatra. Untuk harga tiket registrasi /orang Weekday WNI : 20k, WNA : 310k, Weekend WNI : 25k. WNA : 460k. Estimasi rata-rata waktu mendaki gunung ini 2-3 hari. </item>
+
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/semeru</item>
+        <item>@drawable/semeru</item>
+        <item>@drawable/semeru</item>
+        <item>@drawable/semeru</item>
+        <item>@drawable/semeru</item>
+        <item>@drawable/semeru</item>
+        <item>@drawable/semeru</item>
+        <item>@drawable/semeru</item>
+        <item>@drawable/semeru</item>
+        <item>@drawable/semeru</item>
+        <item>@drawable/semeru</item>
+        <item>@drawable/semeru</item>
+        <item>@drawable/semeru</item>
+        <item>@drawable/semeru</item>
+        <item>@drawable/semeru</item>
+    </integer-array>
+
+    <string-array name="title_education">
+        <item>Hipotermia</item>
+        <item>Tips Mendaki Saat Musim Hujan</item>
+        <item>Larangan saat mendaki Gunung</item>
+        <item>Tips Memasak nasi di Gunung</item>
+        <item>Tips Ketika Terjebak Badai</item>
+        <item>Cara BAB di Gunung</item>
+        <item>Tersesat dan Hilang</item>
+        <item>Tips menghindari petir di Gunung</item>
+        <item>Tips pendakian pertama</item>
+        <item>Tips mendaki gunung ketika menstruasi</item>
+
+    </string-array>
+
+    <string-array name="description_education">
+        <item>Gunung Kerinci</item>
+        <item>1. Wajib membawa jas hujan\n\n2. Stok pakaian ganti lebih banyak dari biasanya\n\n3. Bungkus barang bawaan menggunakan kantong plastik atau trashbag.\n\n4. Bawa fly sheet untuk melindungi tenda dari kondensasi (Rembes)\n\n5. Waspada petir yaitu jangan mendirikan tenda di padang savana yang luas</item>
+        <item>  1. Membuang sampah sembarangan\n\n
+                2. Merusak alam\n\n
+                3. Merusak alam atau mencuri flora dan fauna\n\n
+                4. Keluar dari jalur pendakian\n\n
+                5. Membawa tisu basah\n\n
+                6. Melanggar norma kesopanan terutama budaya lokal\n\n
+                7. Membangun api unggun di tempat yang dilarang\n\n
+                8. Menyalakan api atau merokok di area yang tidak diizinkan\n\n
+                9. Mendaki gunung secara liar atau tanpa izin\n\n
+                10. Tidak memperhatikan keselamatan diri sendiri dan anggota tim\n\n
+</item>
+        <item>Gunung Merbabu</item>
+        <item>Gunung Lawu</item>
+        <item>Gunung Raung</item>
+        <item>Gunung Agung</item>
+        <item>Gunung Andong</item>
+        <item>Gunung Gede</item>
+        <item>Gunung Argopura</item>
+
+    </string-array>
+
+
+
+
+</resources>

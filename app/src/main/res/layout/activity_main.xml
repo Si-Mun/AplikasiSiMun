@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:layout_width="73dp"
+        android:layout_height="16dp"
+        android:gravity="center"
+        android:text="Perlengkapan"
+        android:textColor="@color/black"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.152"
+        app:layout_constraintStart_toEndOf="@+id/textView"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.232" />
+
+    <ImageButton
+        android:id="@+id/ib_equipment"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="@drawable/background"
+        android:src="@drawable/baseline_bag_24"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.2"
+        app:layout_constraintStart_toEndOf="@+id/ib_camera"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.147" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="61dp"
+        android:layout_height="16dp"
+        android:gravity="center"
+        android:text="Camera"
+        android:textColor="@color/black"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.126"
+        app:layout_constraintStart_toEndOf="@+id/textView2"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.232" />
+
+    <ImageButton
+        android:id="@+id/ib_camera"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="@drawable/background"
+        android:src="@drawable/baseline_camera_24"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.126"
+        app:layout_constraintStart_toEndOf="@+id/ib_education"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.147" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="60dp"
+        android:layout_height="17dp"
+        android:gravity="center"
+        android:text="Edukasi"
+        android:textColor="@color/black"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.242"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.232" />
+
+    <ImageButton
+        android:id="@+id/ib_education"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="@drawable/background"
+        android:src="@drawable/baseline_menu_book_24"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.242"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.147" />
+
+    <androidx.appcompat.widget.SearchView
+        android:id="@+id/seacrhView"
+        android:layout_width="298dp"
+        android:layout_height="43dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/background"
+        app:iconifiedByDefault="false"
+        app:layout_constraintBottom_toTopOf="@+id/rv_mountain"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.079"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.079"
+        app:queryHint="Cari Gunung Favoritmu!" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_mountain"
+        android:layout_width="395dp"
+        android:layout_height="527dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0">
+
+    </androidx.recyclerview.widget.RecyclerView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

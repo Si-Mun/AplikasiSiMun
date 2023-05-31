@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:paddingTop="50dp"
+    android:paddingBottom="300dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/iv_detail_photo"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.271"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.059"
+        app:shapeAppearanceOverlay="@style/roundDetail"/>
+
+    <TextView
+        android:id="@+id/tv_detail_name"
+        android:layout_width="410dp"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:gravity="center"
+        android:text="@string/mountain_name"
+        android:textColor="@color/black"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_detail_location"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:paddingTop="10dp"
+        android:text="@string/location"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/expands"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        app:cardCornerRadius="10dp"
+        app:cardElevation="10dp"
+        app:contentPadding="20dp">
+
+        <LinearLayout
+            android:id="@+id/layouts"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:animateLayoutChanges="true"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:text="@string/description"
+                android:textColor="@color/black"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/tv_detail_description"
+                android:layout_width="wrap_content"
+                android:justificationMode="inter_word"
+                android:layout_height="wrap_content"
+                android:text="@string/description"
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                android:visibility="gone" />
+
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+
+
+</LinearLayout>
+</ScrollView>
